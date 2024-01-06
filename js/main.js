@@ -1,8 +1,3 @@
-const scroll = new LocomotiveScroll({
-    el: document.querySelector('#mainMain'),
-    smooth: true
-});
-
 let menu = document.querySelector(".menu-icon");
 let navbar = document.querySelector(".navbar");
 
